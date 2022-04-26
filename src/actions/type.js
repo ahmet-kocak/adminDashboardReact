@@ -1,0 +1,9 @@
+export const CREATE_POST="CREATE_POST";
+export const FETCH_POSTS="FETCH_POSTS";
+export const DELETE_POST="DELETE_POST";
+export const UPDATE_POST="UPDATE_POST";
+export const FETCHİNG="FETCHİNG";
+export const FETCHED="FETCHED";
+export const  ERROR="ERROR";
+export const  DETAİL="DETAİL";
+export const  LİSANCE="LİSANCE";

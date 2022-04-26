@@ -1,0 +1,30 @@
+.BlogPostDetail{
+background-color: white;
+font-weight: bold;
+border: none;
+cursor: pointer;
+color: brown;
+    
+}
+
+.lisanceadd{
+    background-color: white;
+    border-radius: 16px;
+    box-shadow: 2px 2px 2px gray;
+}
+
+.lisanceadd table {
+margin-left: 20px;
+text-align: left;
+padding: 30px;
+}
+
+
+.CoverImgStyle{
+color: rgb(183, 216, 106);
+font-weight: bolder;
+font-size: 18px;
+margin-top:14px ;
+padding-left:15px ;
+padding-bottom: 8px;
+}
